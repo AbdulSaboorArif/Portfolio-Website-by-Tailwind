@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  background-color: url(https://www.google.com/imgres?q=Land%20Forest%20image%20background&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Ffairy-land-forest-with-tall-trees-digital_636537-45746.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Ffairy-land-forest-with-tall-trees-digital_144906265.htm&docid=ON8JUvGo5XgkXM&tbnid=ggg6vjcEtTM7gM&vet=12ahUKEwj-idy-472JAxWHdqQEHVv_FpAQM3oECCgQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwj-idy-472JAxWHdqQEHVv_FpAQM3oECCgQAA);background-color: url(https://www.google.com/imgres?q=Land%20Forest%20image%20background&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Ffairy-land-forest-with-tall-trees-digital_636537-45746.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Ffairy-land-forest-with-tall-trees-digital_144906265.htm&docid=ON8JUvGo5XgkXM&tbnid=ggg6vjcEtTM7gM&vet=12ahUKEwj-idy-472JAxWHdqQEHVv_FpAQM3oECCgQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwj-idy-472JAxWHdqQEHVv_FpAQM3oECCgQAA);
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: url(https://www.google.com/imgres?q=Land%20Forest%20image%20background&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Ffairy-land-forest-with-tall-trees-digital_636537-45746.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Ffairy-land-forest-with-tall-trees-digital_144906265.htm&docid=ON8JUvGo5XgkXM&tbnid=ggg6vjcEtTM7gM&vet=12ahUKEwj-idy-472JAxWHdqQEHVv_FpAQM3oECCgQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwj-idy-472JAxWHdqQEHVv_FpAQM3oECCgQAA);
+    color: black;
+  
+  
+  }
